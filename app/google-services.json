@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385352150299",
+    "firebase_url": "https://ados-9a9f5-default-rtdb.firebaseio.com",
+    "project_id": "ados-9a9f5",
+    "storage_bucket": "ados-9a9f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385352150299:android:153a818acc664bbc45b7be",
+        "android_client_info": {
+          "package_name": "com.example.ados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385352150299-hb1tlig1gmlmgea3knhjqjvnlvtgqhu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvl7bLteQrjp78ImjR5Is74Wx3obu6Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385352150299-hb1tlig1gmlmgea3knhjqjvnlvtgqhu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
